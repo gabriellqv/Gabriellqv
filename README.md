@@ -42,7 +42,7 @@ aplicando arquitetura em camadas, SOLID, testes automatizados e CI/CD.
       </p>
       <p>Sistema de controle de estoque full stack com JWT, arquitetura SOLID, cache Redis, dashboard com agregações e CI/CD.</p>
       <p>
-        <a href="https://github.com/gabriellqv/stocksnap">Código</a>
+        <a href="https://stocksnap-dashboard.vercel.app">Live</a> · <a href="https://github.com/gabriellqv/stocksnap">Código</a>
       </p>
     </td>
   </tr>
