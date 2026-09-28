@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gabriellqv.vercel.app">Portfolio</a> · 
+  <a href="https://gabriellqv.dev/">Portfolio</a> · 
   <a href="https://linkedin.com/in/gabriellqv">LinkedIn</a> · 
   <a href="mailto:gabriellqv@gmail.com">Email</a>
 </p>
